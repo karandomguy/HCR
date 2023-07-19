@@ -5,7 +5,6 @@ Tech stack used:
 * Tensorflow 
 * Open-CV 
 * Scikit-learn 
-* Streamlit
 
 
 
